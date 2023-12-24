@@ -1,6 +1,6 @@
 openai
 langchain
-sqlite3
+pysqlite3-binary
 pinecone-client
 python-dotenv
 tiktoken
