@@ -78,7 +78,7 @@ if __name__ == "__main__":
 
     load_dotenv("env/.env", override=True)
 
-    st.image("files/bogos_binted.png")
+    st.image("files/logo.png")
     st.subheader("Sürdürülebilir Turizm için Yapay Zeka Destekli Bilgi Sistemi")
     with st.sidebar:
         st.markdown("## **Sustainable Tourism Generative AI**")
